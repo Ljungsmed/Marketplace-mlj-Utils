@@ -1,5 +1,7 @@
 # 🏪 Sitecore Marketplace Starter
 
+MLJ
+
 This project is the starter template for building Sitecore Marketplace extensions. It demonstrates five extension points: **Custom Field**, **Dashboard Widget**, **Fullscreen**, **Pages Context Panel**, and **Standalone**. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
 
 ## 🧩 Extension Points
